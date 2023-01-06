@@ -6,7 +6,7 @@
 
 ### Dynamic Programming
 
-- [Cow Tipping](https://github.com/mathletedev/cp/USACO/689.cpp)
+- [Cow Tipping](https://github.com/mathletedev/cp/blob/main/USACO/689.cpp)
 
 ## Credits
 
