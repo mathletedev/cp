@@ -13,5 +13,5 @@
 - [Codeforces](https://codeforces.com)
 - [USACO](http://usaco.org)
 - [USACO Guide](https://usaco.guide)
-- [William Lin](https://github.com/tmwilliamlin168)
+- [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 - [Colin Galen](https://www.youtube.com/c/ColinGalen)
