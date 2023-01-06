@@ -14,3 +14,4 @@
 - [USACO](http://usaco.org)
 - [USACO Guide](https://usaco.guide)
 - [William Lin](https://github.com/tmwilliamlin168)
+- [Colin Galen](https://www.youtube.com/c/ColinGalen)
