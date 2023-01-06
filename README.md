@@ -8,6 +8,13 @@
 
 - [Cow Tipping](https://github.com/mathletedev/cp/blob/main/USACO/689.cpp)
 
+## Additional Info
+
+File names followed by a
+- `_i` contain incorrect solutions
+- `_t` contain timed-out solutions
+- `_u` contain unfinished solutions
+
 ## Credits
 
 - [Codeforces](https://codeforces.com)
