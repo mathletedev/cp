@@ -10,7 +10,7 @@
 
 ## Credits
 
-[Codeforces](https://codeforces.com)
-[USACO](http://usaco.org)
-[USACO Guide](https://usaco.guide)
-[William Lin](https://github.com/tmwilliamlin168)
+- [Codeforces](https://codeforces.com)
+- [USACO](http://usaco.org)
+- [USACO Guide](https://usaco.guide)
+- [William Lin](https://github.com/tmwilliamlin168)
