@@ -8,6 +8,10 @@
 
 - [Cow Tipping](https://github.com/mathletedev/cp/blob/main/USACO/689.cpp)
 
+### Optimization
+
+- [Minimum LCM](https://github.com/mathletedev/cp/blob/main/Codeforces/1765M.cpp)
+
 ## Additional Info
 
 File names followed by a
