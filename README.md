@@ -16,6 +16,10 @@
 
 - [Koxia and Permutation](https://github.com/mathletedev/cp/blob/main/Codeforces/1770B.cpp)
 
+### Simulation
+
+- [Easy Assembly](https://github.com/mathletedev/cp/blob/main/Codeforces/1773E_e.cpp)
+
 ### Optimization
 
 - [Minimum LCM](https://github.com/mathletedev/cp/blob/main/Codeforces/1765M.cpp)
