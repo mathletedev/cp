@@ -24,6 +24,11 @@
 
 - [X-Sum](https://github.com/mathletedev/cp/blob/main/Codeforces/1676D.cpp)
 
+## Problem Sources
+
+Codeforces: `https://codeforces.com/problemset/problem/{contest id}/{problem id}`
+USACO: `http://www.usaco.org/index.php?page=viewproblem2&cpid={problem id}`
+
 ## Additional Info
 
 File names followed by a
