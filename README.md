@@ -26,7 +26,7 @@
 
 ## Problem Sources
 
-Codeforces: `https://codeforces.com/problemset/problem/{contest id}/{problem id}`
+Codeforces: `https://codeforces.com/problemset/problem/{contest id}/{problem id}`\
 USACO: `http://www.usaco.org/index.php?page=viewproblem2&cpid={problem id}`
 
 ## Additional Info
@@ -38,8 +38,4 @@ File names followed by a
 
 ## Credits
 
-- [Codeforces](https://codeforces.com)
-- [USACO](http://usaco.org)
-- [USACO Guide](https://usaco.guide)
-- [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
-- [Colin Galen](https://www.youtube.com/c/ColinGalen)
+[Codeforces](https://codeforces.com) • [USACO](http://usaco.org) • [USACO Guide](https://usaco.guide) • [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q) • [Colin Galen](https://www.youtube.com/c/ColinGalen) •
