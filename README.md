@@ -8,9 +8,21 @@
 
 - [Cow Tipping](https://github.com/mathletedev/cp/blob/main/USACO/689.cpp)
 
+### Greedy Algorithms
+
+- [Divide and Conquer](https://github.com/mathletedev/cp/blob/main/Codeforces/1762A.cpp)
+
+### Constructive Algorithms
+
+- [Koxia and Permutation](https://github.com/mathletedev/cp/blob/main/Codeforces/1770B.cpp)
+
 ### Optimization
 
 - [Minimum LCM](https://github.com/mathletedev/cp/blob/main/Codeforces/1765M.cpp)
+
+### Brute Force
+
+- [X-Sum](https://github.com/mathletedev/cp/blob/main/Codeforces/1676D.cpp)
 
 ## Additional Info
 
