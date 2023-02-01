@@ -16,6 +16,11 @@
 
 - [Koxia and Permutation](https://github.com/mathletedev/cp/blob/main/Codeforces/1770B.cpp)
 
+### Simulation
+
+- [Going to the Cinema](https://github.com/mathletedev/cp/blob/main/Codeforces/1781B.cpp)
+- [Easy Assembly](https://github.com/mathletedev/cp/blob/main/Codeforces/1773E_e.cpp)
+
 ### Optimization
 
 - [Minimum LCM](https://github.com/mathletedev/cp/blob/main/Codeforces/1765M.cpp)
