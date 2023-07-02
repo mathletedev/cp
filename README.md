@@ -43,11 +43,13 @@ USACO: `http://www.usaco.org/index.php?page=viewproblem2&cpid={problem id}`
 
 ## Additional Info
 
-File names followed by a
+### Incomplete Solutions
 
-- `_i` contain incorrect solutions
-- `_t` contain timed-out solutions
-- `_u` contain unfinished solutions
+File name suffixes:
+
+- `_i` incorrect solutions
+- `_t` timed-out solutions
+- `_u` unfinished solutions
 
 ## Credits
 
