@@ -16,6 +16,7 @@
 
 - [Fence Planning](https://github.com/mathletedev/cp/blob/main/USACO/944.cpp)
 - [The Great Revegetation](https://github.com/mathletedev/cp/blob/main/USACO/920.cpp)
+- [Where's Bessie?](https://github.com/mathletedev/cp/blob/main/USACO/740.cpp)
 
 ### Constructive Algorithms
 
