@@ -2,7 +2,7 @@
 
 > My collection of competitive programming solutions
 
-## Favorites
+## Favourites
 
 <details><summary>Graph Traversal</summary>
 
