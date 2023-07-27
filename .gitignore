@@ -2,6 +2,7 @@
 !*/
 !*.*
 !clean
+!count
 *.in
 *.out
 /tmp/
