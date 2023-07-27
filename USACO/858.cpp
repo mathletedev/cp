@@ -6,13 +6,13 @@
 int N, M, C;
 std::vector<int> cows;
 
-bool is_possible(int x) {
+bool is_possible(int t) {
 	int buses = 0, seats = 0, wait_time = 0;
 
 	for (int i = 0; i < N; ++i) {
 		++seats;
 
-		if (seats > C || cows[i] - wait_time > x || i == 0) {
+		if (seats > C || cows[i] - wait_time > t || i == 0) {
 			++buses;
 			if (buses > M)
 				return 0;
