@@ -1,6 +1,7 @@
 *
 !*/
 !*.*
+!clean
 *.in
 *.out
 /tmp/
