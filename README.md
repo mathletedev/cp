@@ -20,6 +20,13 @@
 
 </details>
 
+<details><summary>Binary Search</summary>
+
+- [Convention](https://github.com/mathletedev/cp/blob/main/USACO/858.cpp)
+- [Social Distancing](https://github.com/mathletedev/cp/blob/main/USACO/1038.cpp)
+
+</details>
+
 <details><summary>Greedy Algorithms</summary>
 
 - [Divide and Conquer](https://github.com/mathletedev/cp/blob/main/Codeforces/1762A.cpp)
@@ -30,13 +37,6 @@
 
 - [Koxia and Permutation](https://github.com/mathletedev/cp/blob/main/Codeforces/1770B.cpp)
 - [Minimum LCM](https://github.com/mathletedev/cp/blob/main/Codeforces/1765M.cpp)
-
-</details>
-
-<details><summary>Binary Search</summary>
-
-- [Convention](https://github.com/mathletedev/cp/blob/main/USACO/858.cpp)
-- [Social Distancing](https://github.com/mathletedev/cp/blob/main/USACO/1038.cpp)
 
 </details>
 
