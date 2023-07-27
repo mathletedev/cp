@@ -43,6 +43,7 @@
 
 - [Going to the Cinema](https://github.com/mathletedev/cp/blob/main/Codeforces/1781B.cpp)
 - [Easy Assembly](https://github.com/mathletedev/cp/blob/main/Codeforces/1773E_e.cpp)
+- [Convention](https://github.com/mathletedev/cp/blob/main/USACO/858.cpp)
 
 </details>
 
