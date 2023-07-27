@@ -33,6 +33,13 @@
 
 </details>
 
+<details><summary>Binary Search</summary>
+
+- [Convention](https://github.com/mathletedev/cp/blob/main/USACO/858.cpp)
+- [Social Distancing](https://github.com/mathletedev/cp/blob/main/USACO/1038.cpp)
+
+</details>
+
 <details><summary>Complete Search</summary>
 
 - [X-Sum](https://github.com/mathletedev/cp/blob/main/Codeforces/1676D.cpp)
@@ -43,7 +50,6 @@
 
 - [Going to the Cinema](https://github.com/mathletedev/cp/blob/main/Codeforces/1781B.cpp)
 - [Easy Assembly](https://github.com/mathletedev/cp/blob/main/Codeforces/1773E_e.cpp)
-- [Convention](https://github.com/mathletedev/cp/blob/main/USACO/858.cpp)
 
 </details>
 
