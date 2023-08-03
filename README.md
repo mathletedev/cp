@@ -9,6 +9,7 @@
 - [Cooperative Game](https://github.com/mathletedev/cp/blob/main/Codeforces/1137D.cpp) 🐬
 - [Field Day](https://github.com/mathletedev/cp/blob/main/USACO/1327.cpp) 🐬
 - [Wormhole Sort](https://github.com/mathletedev/cp/blob/main/USACO/992.cpp)
+- [Redistributing Gifts](https://github.com/mathletedev/cp/blob/main/USACO/1206.cpp)
 - [The Great Revegetation](https://github.com/mathletedev/cp/blob/main/USACO/920.cpp)
 - [Fence Planning](https://github.com/mathletedev/cp/blob/main/USACO/944.cpp)
 - [Why Did the Cow Cross the Road III](https://github.com/mathletedev/cp/blob/main/USACO/716.cpp)
