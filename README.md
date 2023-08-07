@@ -10,6 +10,7 @@
 - [Field Day](https://github.com/mathletedev/cp/blob/main/USACO/1327.cpp) 🐬
 - [Wormhole Sort](https://github.com/mathletedev/cp/blob/main/USACO/992.cpp)
 - [Redistributing Gifts](https://github.com/mathletedev/cp/blob/main/USACO/1206.cpp)
+- [Strong Vertices](https://github.com/mathletedev/cp/blob/main/Codeforces/1857D_m.cpp)
 - [The Great Revegetation](https://github.com/mathletedev/cp/blob/main/USACO/920.cpp)
 - [Fence Planning](https://github.com/mathletedev/cp/blob/main/USACO/944.cpp)
 - [Why Did the Cow Cross the Road III](https://github.com/mathletedev/cp/blob/main/USACO/716.cpp)
@@ -67,9 +68,10 @@ USACO: `http://www.usaco.org/index.php?page=viewproblem2&cpid={problem id}`
 <details>
 <summary>File name suffixes</summary>
 
-- `_i` incorrect solutions
-- `_t` timed-out solutions
-- `_u` unfinished solutions
+- `_t` TLE
+- `_m` MLE
+- `_i` incorrect
+- `_u` unfinished
 
 </details>
 
