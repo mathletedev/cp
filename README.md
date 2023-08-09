@@ -19,6 +19,7 @@
 
 <details><summary>Dynamic Programming</summary>
 
+- [Time is Mooney](https://github.com/mathletedev/cp/blob/main/USACO/993.cpp)
 - [Cow Tipping](https://github.com/mathletedev/cp/blob/main/USACO/689.cpp)
 
 </details>
