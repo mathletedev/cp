@@ -39,6 +39,7 @@
 
 <details><summary>Math / Number Theory</summary>
 
+- [Circular Barn](https://github.com/mathletedev/cp/blob/main/USACO/1255.cpp)
 - [Koxia and Permutation](https://github.com/mathletedev/cp/blob/main/Codeforces/1770B.cpp)
 - [Minimum LCM](https://github.com/mathletedev/cp/blob/main/Codeforces/1765M.cpp)
 
