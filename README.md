@@ -7,6 +7,7 @@
 <details><summary>Graph Traversal</summary>
 
 - [Cooperative Game](https://github.com/mathletedev/cp/blob/main/Codeforces/1137D.cpp) 🐬
+- [Cereal 2](https://github.com/mathletedev/cp/blob/main/USACO/1184.cpp) 🐬
 - [Field Day](https://github.com/mathletedev/cp/blob/main/USACO/1327.cpp) 🐬
 - [Wormhole Sort](https://github.com/mathletedev/cp/blob/main/USACO/992.cpp)
 - [Redistributing Gifts](https://github.com/mathletedev/cp/blob/main/USACO/1206.cpp)
