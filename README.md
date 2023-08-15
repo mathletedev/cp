@@ -62,7 +62,9 @@
 ## Problem Sources
 
 Codeforces: `https://codeforces.com/problemset/problem/{contest id}/{problem id}`\
-USACO: `http://www.usaco.org/index.php?page=viewproblem2&cpid={problem id}`
+USACO: `http://www.usaco.org/index.php?page=viewproblem2&cpid={problem id}`\
+AtCoder: `https://atcoder.jp/contests/{contest id}/tasks/{problem id}`\
+CSES: `https://cses.fi/problemset/task/{problem id}`
 
 ## Additional Info
 
@@ -71,10 +73,10 @@ USACO: `http://www.usaco.org/index.php?page=viewproblem2&cpid={problem id}`
 <details>
 <summary>File name suffixes</summary>
 
-- `_t` TLE
-- `_m` MLE
-- `_i` incorrect
-- `_u` unfinished
+- `.t` TLE
+- `.m` MLE
+- `.i` incorrect
+- `.u` unfinished
 
 </details>
 
