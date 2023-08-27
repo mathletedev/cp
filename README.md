@@ -28,7 +28,7 @@
 <details><summary>Math / Number Theory</summary>
 
 - [Circular Barn](https://github.com/mathletedev/cp/blob/main/USACO/1255.cpp) 🐬
-- [Divisor Chain](https://github.com/mathletedev/cp/blob/main/Codeforces/1860B.cpp) 🐬
+- [Divisor Chain](https://github.com/mathletedev/cp/blob/main/Codeforces/1864C.cpp) 🐬
 - [Fancy Coins](https://github.com/mathletedev/cp/blob/main/Codeforces/1860B.cpp)
 - [Koxia and Permutation](https://github.com/mathletedev/cp/blob/main/Codeforces/1770B.cpp)
 - [Minimum LCM](https://github.com/mathletedev/cp/blob/main/Codeforces/1765M.cpp)
