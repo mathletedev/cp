@@ -86,4 +86,4 @@ CSES: `https://cses.fi/problemset/task/{problem id}`
 
 ## Credits
 
-[Codeforces](https://codeforces.com) • [USACO](http://usaco.org) • [USACO Guide](https://usaco.guide) • [William Lin](https://www.youtube.com/@tmwilliamlin168) • [Colin Galen](https://www.youtube.com/@ColinGalen)
+[USACO Guide](https://usaco.guide) • [Colin Galen](https://www.youtube.com/@ColinGalen) • [William Lin](https://www.youtube.com/@tmwilliamlin168)
