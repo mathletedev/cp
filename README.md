@@ -25,6 +25,16 @@
 
 </details>
 
+<details><summary>Math / Number Theory</summary>
+
+- [Circular Barn](https://github.com/mathletedev/cp/blob/main/USACO/1255.cpp) 🐬
+- [Divisor Chain](https://github.com/mathletedev/cp/blob/main/Codeforces/1860B.cpp) 🐬
+- [Fancy Coins](https://github.com/mathletedev/cp/blob/main/Codeforces/1860B.cpp)
+- [Koxia and Permutation](https://github.com/mathletedev/cp/blob/main/Codeforces/1770B.cpp)
+- [Minimum LCM](https://github.com/mathletedev/cp/blob/main/Codeforces/1765M.cpp)
+
+</details>
+
 <details><summary>Binary Search</summary>
 
 - [Convention](https://github.com/mathletedev/cp/blob/main/USACO/858.cpp)
@@ -35,15 +45,6 @@
 <details><summary>Greedy Algorithms</summary>
 
 - [Divide and Conquer](https://github.com/mathletedev/cp/blob/main/Codeforces/1762A.cpp)
-
-</details>
-
-<details><summary>Math / Number Theory</summary>
-
-- [Circular Barn](https://github.com/mathletedev/cp/blob/main/USACO/1255.cpp) 🐬
-- [Fancy Coins](https://github.com/mathletedev/cp/blob/main/Codeforces/1860B.cpp)
-- [Koxia and Permutation](https://github.com/mathletedev/cp/blob/main/Codeforces/1770B.cpp)
-- [Minimum LCM](https://github.com/mathletedev/cp/blob/main/Codeforces/1765M.cpp)
 
 </details>
 
