@@ -25,6 +25,16 @@
 
 </details>
 
+<details><summary>Math / Number Theory</summary>
+
+- [Circular Barn](https://github.com/mathletedev/cp/blob/main/USACO/1255.cpp) 🐬
+- [Divisor Chain](https://github.com/mathletedev/cp/blob/main/Codeforces/1864C.cpp) 🐬
+- [Fancy Coins](https://github.com/mathletedev/cp/blob/main/Codeforces/1860B.cpp)
+- [Koxia and Permutation](https://github.com/mathletedev/cp/blob/main/Codeforces/1770B.cpp)
+- [Minimum LCM](https://github.com/mathletedev/cp/blob/main/Codeforces/1765M.cpp)
+
+</details>
+
 <details><summary>Binary Search</summary>
 
 - [Convention](https://github.com/mathletedev/cp/blob/main/USACO/858.cpp)
@@ -35,15 +45,6 @@
 <details><summary>Greedy Algorithms</summary>
 
 - [Divide and Conquer](https://github.com/mathletedev/cp/blob/main/Codeforces/1762A.cpp)
-
-</details>
-
-<details><summary>Math / Number Theory</summary>
-
-- [Circular Barn](https://github.com/mathletedev/cp/blob/main/USACO/1255.cpp) 🐬
-- [Fancy Coins](https://github.com/mathletedev/cp/blob/main/Codeforces/1860B.cpp)
-- [Koxia and Permutation](https://github.com/mathletedev/cp/blob/main/Codeforces/1770B.cpp)
-- [Minimum LCM](https://github.com/mathletedev/cp/blob/main/Codeforces/1765M.cpp)
 
 </details>
 
@@ -85,4 +86,4 @@ CSES: `https://cses.fi/problemset/task/{problem id}`
 
 ## Credits
 
-[Codeforces](https://codeforces.com) • [USACO](http://usaco.org) • [USACO Guide](https://usaco.guide) • [William Lin](https://www.youtube.com/@tmwilliamlin168) • [Colin Galen](https://www.youtube.com/@ColinGalen)
+[USACO Guide](https://usaco.guide) • [Colin Galen](https://www.youtube.com/@ColinGalen) • [William Lin](https://www.youtube.com/@tmwilliamlin168)
