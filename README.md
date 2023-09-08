@@ -63,7 +63,8 @@
 
 ## Problem Sources
 
-Codeforces: `https://codeforces.com/problemset/problem/{contest id}/{problem id}`\
+Codeforces (contest): `https://codeforces.com/problemset/problem/{contest id}/{problem id}`\
+Codeforces (gym): `https://codeforces.com/gym/{gym id}/problem/{problem id}`\
 USACO: `http://www.usaco.org/index.php?page=viewproblem2&cpid={problem id}`\
 AtCoder: `https://atcoder.jp/contests/{contest id}/tasks/{problem id}`\
 CSES: `https://cses.fi/problemset/task/{problem id}`
