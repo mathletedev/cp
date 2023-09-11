@@ -40,7 +40,6 @@ void solve() {
 	std::cout << std::min(cost(city_a, closest_a) + cost(city_b, closest_b),
 			      cost(city_a, city_b))
 		  << std::endl;
-	;
 }
 
 int main() {
