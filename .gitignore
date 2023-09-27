@@ -9,4 +9,5 @@
 !count
 *.in
 *.out
+*.txt
 /tmp/
