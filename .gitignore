@@ -10,4 +10,5 @@
 *.in
 *.out
 *.txt
+*.zip
 /tmp/

@@ -1,4 +1,4 @@
 #!/bin/sh
 
-find . -mindepth 2 -maxdepth 2 -type f -executable -delete
+find . -mindepth 2 -type f -executable -delete
 rm *.in *.out 2>/dev/null
