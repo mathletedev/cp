@@ -1,3 +1,3 @@
 #/bin/sh
 
-cat ./mhc.in | ./main > ./mhc.out
+cat ./*.txt | ./main > ./mhc.out
